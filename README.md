@@ -1,5 +1,4 @@
-</div>
-# 🩸 Nightblood Mod
+## 🩸 Nightblood Mod
 
 A powerful Minecraft mod that adds blood-powered weapons and night-enhanced tools with unique mechanics and abilities.
 
